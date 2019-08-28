@@ -1,0 +1,9 @@
+>> FM
+Input carrier frequency(fc): 50
+fc =  50
+Input message signal frequency(fm): 10
+fm =  10
+Input amplitude of carrier signal(Ac): 1
+Ac =  1
+Input Modulation Index(Beta)2
+B =  2

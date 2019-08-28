@@ -1,0 +1,10 @@
+>> AM
+
+Input carrier frequency(fc): 100
+fc =  100
+Input message signal frequency(fm): 10
+fm =  10
+Input amplitude of carrier signal(Ac): 1
+Ac =  1
+Input Modulation Index(m)1
+m =  1
